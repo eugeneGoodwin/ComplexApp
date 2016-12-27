@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="background">#eefaf0</color>
+    <color name="interval">#87c384</color>
+    <color name="yellow">#eca81c</color>
+    <color name="silver">#c0c0c0</color>
+    <color name="transparent">#00000000</color>
+    <color name="light_silver">#E5E5E5</color>
+    <color name="turquoise">#5FC5C5</color>
+</resources>
